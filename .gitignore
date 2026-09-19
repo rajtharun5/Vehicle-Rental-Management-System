@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+*.class
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Local environment files
+.env
+
+# Local database configuration
+application-local.properties
